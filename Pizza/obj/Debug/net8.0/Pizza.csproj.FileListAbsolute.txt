@@ -1,0 +1,4 @@
+D:\C++ проекты\Pizza_Decorator_C#\Pizza\obj\Debug\net8.0\Pizza.GeneratedMSBuildEditorConfig.editorconfig
+D:\C++ проекты\Pizza_Decorator_C#\Pizza\obj\Debug\net8.0\Pizza.AssemblyInfoInputs.cache
+D:\C++ проекты\Pizza_Decorator_C#\Pizza\obj\Debug\net8.0\Pizza.AssemblyInfo.cs
+D:\C++ проекты\Pizza_Decorator_C#\Pizza\obj\Debug\net8.0\Pizza.csproj.CoreCompileInputs.cache

@@ -1,0 +1,11 @@
+D:\C++ проекты\Pizza_Decorator_C#\Component\bin\Debug\net8.0\Component.deps.json
+D:\C++ проекты\Pizza_Decorator_C#\Component\bin\Debug\net8.0\Component.dll
+D:\C++ проекты\Pizza_Decorator_C#\Component\bin\Debug\net8.0\Component.pdb
+D:\C++ проекты\Pizza_Decorator_C#\Component\obj\Debug\net8.0\Component.GeneratedMSBuildEditorConfig.editorconfig
+D:\C++ проекты\Pizza_Decorator_C#\Component\obj\Debug\net8.0\Component.AssemblyInfoInputs.cache
+D:\C++ проекты\Pizza_Decorator_C#\Component\obj\Debug\net8.0\Component.AssemblyInfo.cs
+D:\C++ проекты\Pizza_Decorator_C#\Component\obj\Debug\net8.0\Component.csproj.CoreCompileInputs.cache
+D:\C++ проекты\Pizza_Decorator_C#\Component\obj\Debug\net8.0\Component.dll
+D:\C++ проекты\Pizza_Decorator_C#\Component\obj\Debug\net8.0\refint\Component.dll
+D:\C++ проекты\Pizza_Decorator_C#\Component\obj\Debug\net8.0\Component.pdb
+D:\C++ проекты\Pizza_Decorator_C#\Component\obj\Debug\net8.0\ref\Component.dll

@@ -1,0 +1,15 @@
+D:\C++ проекты\Pizza_Decorator_C#\Pizza\bin\Debug\net8.0\PizzaInfo.deps.json
+D:\C++ проекты\Pizza_Decorator_C#\Pizza\bin\Debug\net8.0\PizzaInfo.dll
+D:\C++ проекты\Pizza_Decorator_C#\Pizza\bin\Debug\net8.0\PizzaInfo.pdb
+D:\C++ проекты\Pizza_Decorator_C#\Pizza\bin\Debug\net8.0\Component.dll
+D:\C++ проекты\Pizza_Decorator_C#\Pizza\bin\Debug\net8.0\Component.pdb
+D:\C++ проекты\Pizza_Decorator_C#\Pizza\obj\Debug\net8.0\PizzaInfo.csproj.AssemblyReference.cache
+D:\C++ проекты\Pizza_Decorator_C#\Pizza\obj\Debug\net8.0\PizzaInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\C++ проекты\Pizza_Decorator_C#\Pizza\obj\Debug\net8.0\PizzaInfo.AssemblyInfoInputs.cache
+D:\C++ проекты\Pizza_Decorator_C#\Pizza\obj\Debug\net8.0\PizzaInfo.AssemblyInfo.cs
+D:\C++ проекты\Pizza_Decorator_C#\Pizza\obj\Debug\net8.0\PizzaInfo.csproj.CoreCompileInputs.cache
+D:\C++ проекты\Pizza_Decorator_C#\Pizza\obj\Debug\net8.0\PizzaInfo.csproj.Up2Date
+D:\C++ проекты\Pizza_Decorator_C#\Pizza\obj\Debug\net8.0\PizzaInfo.dll
+D:\C++ проекты\Pizza_Decorator_C#\Pizza\obj\Debug\net8.0\refint\PizzaInfo.dll
+D:\C++ проекты\Pizza_Decorator_C#\Pizza\obj\Debug\net8.0\PizzaInfo.pdb
+D:\C++ проекты\Pizza_Decorator_C#\Pizza\obj\Debug\net8.0\ref\PizzaInfo.dll

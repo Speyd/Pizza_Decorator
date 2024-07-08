@@ -1,0 +1,15 @@
+D:\C++ проекты\Pizza_Decorator_C#\Decorator\bin\Debug\net8.0\Decorator.deps.json
+D:\C++ проекты\Pizza_Decorator_C#\Decorator\bin\Debug\net8.0\Decorator.dll
+D:\C++ проекты\Pizza_Decorator_C#\Decorator\bin\Debug\net8.0\Decorator.pdb
+D:\C++ проекты\Pizza_Decorator_C#\Decorator\bin\Debug\net8.0\Component.dll
+D:\C++ проекты\Pizza_Decorator_C#\Decorator\bin\Debug\net8.0\Component.pdb
+D:\C++ проекты\Pizza_Decorator_C#\Decorator\obj\Debug\net8.0\Decorator.csproj.AssemblyReference.cache
+D:\C++ проекты\Pizza_Decorator_C#\Decorator\obj\Debug\net8.0\Decorator.GeneratedMSBuildEditorConfig.editorconfig
+D:\C++ проекты\Pizza_Decorator_C#\Decorator\obj\Debug\net8.0\Decorator.AssemblyInfoInputs.cache
+D:\C++ проекты\Pizza_Decorator_C#\Decorator\obj\Debug\net8.0\Decorator.AssemblyInfo.cs
+D:\C++ проекты\Pizza_Decorator_C#\Decorator\obj\Debug\net8.0\Decorator.csproj.CoreCompileInputs.cache
+D:\C++ проекты\Pizza_Decorator_C#\Decorator\obj\Debug\net8.0\Decorator.csproj.Up2Date
+D:\C++ проекты\Pizza_Decorator_C#\Decorator\obj\Debug\net8.0\Decorator.dll
+D:\C++ проекты\Pizza_Decorator_C#\Decorator\obj\Debug\net8.0\refint\Decorator.dll
+D:\C++ проекты\Pizza_Decorator_C#\Decorator\obj\Debug\net8.0\Decorator.pdb
+D:\C++ проекты\Pizza_Decorator_C#\Decorator\obj\Debug\net8.0\ref\Decorator.dll
